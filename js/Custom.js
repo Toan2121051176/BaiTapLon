@@ -192,7 +192,7 @@ $(document).ready(function() {
                     $(".message").typed({
                         strings: [
                             "<<< Merry Christmas >>>",
-                            "Nhân dịp Noel và năm mới sắp đến, xin gửi đến Bé Iu những lời cầu nguyện an lành, bình an và hòa bình nhất. Chúc Bé Iu một mùa Giáng Sinh và một năm mới thật nhiều niềm vui, ý nghĩa và đáng nhớ nhất.Anh Yêu Bé Nhiều Lắm đó Ạ 1😍❤️😘",
+                            "Thay cho món quà tặng, xin gửi lời chúc tốt đẹp nhất, hạnh phúc đến mọi người. Chúc cho bạn mùa Giáng sinh an lành, mùa đông ấm áp bên cạnh gia đình, người thân yêu. Merry Christmas.",
 
                         ],
                         typeSpeed: 250,
